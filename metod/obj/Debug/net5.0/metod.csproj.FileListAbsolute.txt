@@ -1,0 +1,16 @@
+C:\Users\Clean__Laptop\Desktop\metod\metod\bin\Debug\net5.0\metod.exe
+C:\Users\Clean__Laptop\Desktop\metod\metod\bin\Debug\net5.0\metod.deps.json
+C:\Users\Clean__Laptop\Desktop\metod\metod\bin\Debug\net5.0\metod.runtimeconfig.json
+C:\Users\Clean__Laptop\Desktop\metod\metod\bin\Debug\net5.0\metod.runtimeconfig.dev.json
+C:\Users\Clean__Laptop\Desktop\metod\metod\bin\Debug\net5.0\metod.dll
+C:\Users\Clean__Laptop\Desktop\metod\metod\bin\Debug\net5.0\metod.pdb
+C:\Users\Clean__Laptop\Desktop\metod\metod\obj\Debug\net5.0\metod.csproj.AssemblyReference.cache
+C:\Users\Clean__Laptop\Desktop\metod\metod\obj\Debug\net5.0\metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clean__Laptop\Desktop\metod\metod\obj\Debug\net5.0\metod.AssemblyInfoInputs.cache
+C:\Users\Clean__Laptop\Desktop\metod\metod\obj\Debug\net5.0\metod.AssemblyInfo.cs
+C:\Users\Clean__Laptop\Desktop\metod\metod\obj\Debug\net5.0\metod.csproj.CoreCompileInputs.cache
+C:\Users\Clean__Laptop\Desktop\metod\metod\obj\Debug\net5.0\metod.dll
+C:\Users\Clean__Laptop\Desktop\metod\metod\obj\Debug\net5.0\refint\metod.dll
+C:\Users\Clean__Laptop\Desktop\metod\metod\obj\Debug\net5.0\metod.pdb
+C:\Users\Clean__Laptop\Desktop\metod\metod\obj\Debug\net5.0\metod.genruntimeconfig.cache
+C:\Users\Clean__Laptop\Desktop\metod\metod\obj\Debug\net5.0\ref\metod.dll
